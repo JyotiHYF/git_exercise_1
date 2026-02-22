@@ -1,3 +1,4 @@
-apple
-pineapple
+apple 
+mango
 cherry
+kiwi
